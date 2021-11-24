@@ -1,16 +1,16 @@
 {
 "companyName": "DefaultCompany",
-"productName": "KushoNFT",
+"productName": "TriangulationByEarClipping",
 "productVersion": "0.1",
-"dataUrl": "counterpoint.data.unityweb",
-"wasmCodeUrl": "counterpoint.wasm.code.unityweb",
-"wasmFrameworkUrl": "counterpoint.wasm.framework.unityweb",
+"dataUrl": "Counterpoint.data.unityweb",
+"wasmCodeUrl": "Counterpoint.wasm.code.unityweb",
+"wasmFrameworkUrl": "Counterpoint.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
 "cacheControl": {"default": "must-revalidate"},
-"developmentBuild": true,
+"developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.9f1"
 }
