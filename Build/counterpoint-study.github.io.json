@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TriangulationByEarClipping",
+"productVersion": "0.1",
+"dataUrl": "counterpoint-study.github.io.data.unityweb",
+"wasmCodeUrl": "counterpoint-study.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "counterpoint-study.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
